@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/kunyan/entity/Company.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/kunyan/entity/CompanyExecutive.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/kunyan/infotype/CompanyCapitalStructure.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/kunyan/infotype/CompanyProfile.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/kunyan/infotype/CompanyTopManager.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/kunyan/infotype/TenBigFloatHolder.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/kunyan/util/StringUtil.scala" charset="UTF-8" />
+  </component>
+</project>

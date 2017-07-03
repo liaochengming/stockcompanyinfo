@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <mysqlStock>
+        <url>jdbc:mysql://61.147.114.67:3306/stock?userUnicode=true&amp;characterEncoding=utf-8&amp;noAccessToProcedureBodies=true&amp;autoReconnect=true</url>
+        <driver>com.mysql.jdbc.Driver</driver>
+        <username>wangzhi</username>
+        <password>wangzhi</password>
+    </mysqlStock>
+    <mysqlCompany>
+        <url>jdbc:mysql://61.147.114.67:3306/company_db?userUnicode=true&amp;characterEncoding=utf-8&amp;noAccessToProcedureBodies=true&amp;autoReconnect=true</url>
+        <driver>com.mysql.jdbc.Driver</driver>
+        <username>wangzhi</username>
+        <password>wangzhi</password>
+    </mysqlCompany>
+</xml>
